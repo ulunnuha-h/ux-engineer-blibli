@@ -1,0 +1,19 @@
+1. JavaScript framework is a pre-written collection of code libraries, tools, and utilities designed to help developers build web applications quick. Frameworks provide a structured approach to developing web applications by providing ready-to-use functionalities. One of the most popular Javascript framework is Vue.js. A JavaScript framework is a pre-written collection of code libraries, tools, and utilities designed to help developers build web applications more efficiently. Vue.js is a progressive JavaScript framework used for building user interfaces and single-page applications. Created by Evan You in 2014, Vue has gained significant popularity due to its simplicity, ease of integration, and its gradual learning curve.
+2. An ellipsis is a mark that represent with three dots (...). This mark used to indicate the omission of words in a sentence or a pause in speech or thought.
+3. 
+a. @keyframes is an at-rule in CSS used to define a set of keyframes for the animation. It allows you to specify how a CSS animation progresses over time by defining styles for different points during the animation.
+b. animation-name is a CSS property that specifies the name of the @keyframes rule to be used for the animation. You assign the name of the animation you defined using @keyframes to this property.
+c. animation-duration is a CSS property that sets the duration of the animation. It specifies how long the animation cycle should take to complete one iteration. It's usually defined in seconds or milliseconds.
+d. animation-iteration is a CSS property that sets the number of times an animation cycle should be played before stopping. It can take values like a specific number (e.g., 3) or infinite for continuous looping.
+e. animation-direction is a CSS property that determines whether an animation should play in reverse or alternate directions. It can take values like normal, reverse, alternate, or alternate-reverse.
+4. Lazy loading in JavaScript is a technique used to defer the loading of non-essential resources (such as images, scripts, or content) until they are needed. This strategy can significantly improve a webpage's initial loading speed by loading only the necessary resources initially and fetching additional resources when they are required. It's the same as a lazy person who won't do something until he's told to.
+5. 
+- git init: Initializes a new Git repository in the current directory.
+- git clone <repository URL>: Copies a repository from a remote server to your local machine.
+- git status: Shows the current status of your repository, including tracked/untracked files and changes to be committed.
+- git add <file>: Adds a file to the staging area to be included in the next commit.
+- git commit -m "Your commit message": Commits the changes in the staging area with a descriptive message.
+- git push: Sends committed changes to a remote repository.
+- git pull: Fetches changes from a remote repository and merges them into your local branch.
+- git branch: Lists all local branches, highlighting the current branch.
+- git checkout <branch_name>: Switches to the specified branch.
